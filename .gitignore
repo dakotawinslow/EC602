@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 HW*/
 !HW8_9/
 HW8_9/models/
 
+=======
+>>>>>>> 839f17fb2f0ea4bb3ea0179186aa07d1a4524cde
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
